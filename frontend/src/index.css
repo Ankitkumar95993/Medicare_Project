@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.header{
+    @apply bg-[url('./assets/images/mask.png')] bg-no-repeat bg-center bg-cover w-full h-[70px] leading-[100px];
+}
+
+.hero_section
+{
+    @apply bg-[url('./assets/images/hero-bg.png')]
+}
