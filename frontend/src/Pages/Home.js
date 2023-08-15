@@ -223,7 +223,7 @@ const Home = () => {
 
                   {/* .................feature img ..................... */}
             <div className="relative z-10 xl:w-[770px] flex justify-end mt-[50px] lg:mt-0">
-                <img src={featureImg} alt=""/>
+                <img src={featureImg}  className="w-3/4\]" alt=""/>
             </div>
           </div>
         </div>
